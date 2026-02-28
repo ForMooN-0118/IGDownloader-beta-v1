@@ -1151,7 +1151,7 @@ def manage_accounts_menu():
             print("➕ 添加账号")
             print(f"{'='*60}")
             print("说明: 输入 Instagram 用户名（不需要 @ 符号）")
-            print("      例如: zhaosibo46")
+            print("      例如: Instagram")
             print("      输入 B 返回上一级，输入 M 返回主菜单")
             print(f"{'='*60}\n")
             
@@ -2488,3 +2488,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
