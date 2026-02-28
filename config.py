@@ -222,9 +222,8 @@ def save_accounts(accounts):
 # 要监控的 Instagram 账号列表（从存档加载）
 # 如果存档不存在，使用默认账号初始化
 DEFAULT_ACCOUNTS = [
-    "zhaosibo46",
+    "instagram",
     # 添加更多账号，例如:
-    # "instagram",
     # "natgeo",
 ]
 
@@ -340,3 +339,4 @@ def is_first_run():
 
 # 自动初始化所有文件（导入时执行）
 INIT_RESULTS = init_all_files()
+
