@@ -20,7 +20,7 @@ Instagram 内容监控与下载工具 - 自动监控指定账号的新内容（�
 
 ### 下载程序
 
-1. 从 [Releases](https://github.com/ForMooN-0118/IGDownloader/releases) 下载最新版本
+1. 从 [Releases](https://github.com/ForMooN-0118/IGDownloader-beta-v1/releases) 下载最新版本
 2. 解压到任意目录
 
 ### 首次使用
@@ -33,7 +33,7 @@ IGDownloader.exe
 **方式二：使用 Python 运行**
 ```bash
 # 克隆仓库
-git clone https://github.com/ForMooN-0118/IGDownloader.git
+git clone https://github.com/ForMooN-0118/IGDownloader-beta-v1.git
 cd IGDownloader
 
 # 创建虚拟环境
@@ -223,7 +223,7 @@ A: 这是 gallery-dl 的缓存问题，程序会自动处理，如持续出现�
 **ForMooN-0118**
 
 - GitHub: [@ForMooN-0118](https://github.com/ForMooN-0118)
-- 项目地址: https://github.com/ForMooN-0118/IGDownloader-beta-v1
+- 项目地址: https://github.com/ForMooN-0118/IGDownloader-beta-v0.1
 
 ## ⚖️ 免责声明
 
