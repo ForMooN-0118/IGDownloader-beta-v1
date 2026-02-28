@@ -223,7 +223,7 @@ A: 这是 gallery-dl 的缓存问题，程序会自动处理，如持续出现�
 **ForMooN-0118**
 
 - GitHub: [@ForMooN-0118](https://github.com/ForMooN-0118)
-- 项目地址: https://github.com/ForMooN-0118/IGDownloader-beta-v0.1
+- 项目地址: https://github.com/ForMooN-0118/IGDownloader-beta-v1
 
 ## ⚖️ 免责声明
 
