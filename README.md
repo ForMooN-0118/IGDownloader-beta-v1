@@ -1,13 +1,13 @@
 # ForMooN-0118 IGDownloader
 
-Instagram 内容监控与下载工具 - 自动监控指定账号的新内容（帖子、快拍、Reels），智能去重下载。
+Instagram 下载工具 - 指定账号的新内容（帖子、快拍、Reels），智能去重下载。
 
 [![Python Version](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 功能特点
 
-- ✅ **自动监控** - 检测指定 Instagram 账号的新帖子、快拍、Reels
+- ✅ **自动检测** - 检测指定 Instagram 账号的新帖子、快拍、Reels
 - ✅ **智能去重** - 自动识别已下载内容，避免重复下载
 - ✅ **分类存储** - 按账号和类型（posts/stories/reels）分类保存
 - ✅ **元数据提取** - 自动提取并保存标题、时间、点赞数等信息到 TXT 文件
